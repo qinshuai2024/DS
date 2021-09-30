@@ -1,7 +1,0 @@
-﻿  Stack.c
-D:\B20111228\classDS\ArrayStack\ArrayStack\Stack.c(8,32): warning C4013: “malloc”未定义；假设外部返回 int
-D:\B20111228\classDS\ArrayStack\ArrayStack\Stack.c(50,41): warning C4013: “realloc”未定义；假设外部返回 int
-D:\B20111228\classDS\ArrayStack\ArrayStack\Stack.c(94,6): warning C4013: “free”未定义；假设外部返回 int
-  StackTest.c
-  正在生成代码...
-  ArrayStack.vcxproj -> D:\B20111228\classDS\ArrayStack\Debug\ArrayStack.exe
