@@ -1,0 +1,6 @@
+﻿  Queue.c
+D:\B20111228\classDS\ListQueue\ListQueue\Queue.c(70,1): warning C4133: “初始化”: 从“QNode *”到“Queue *”的类型不兼容
+D:\B20111228\classDS\ListQueue\ListQueue\Queue.c(78,26): warning C4028: 形参 1 与声明不同
+  QueueTest.c
+  正在生成代码...
+  ListQueue.vcxproj -> D:\B20111228\classDS\ListQueue\Debug\ListQueue.exe
